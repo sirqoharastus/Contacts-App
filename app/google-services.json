@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "39299714410",
+    "project_id": "contacts-app-7f3a0",
+    "storage_bucket": "contacts-app-7f3a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39299714410:android:2d083e1856e8621282e913",
+        "android_client_info": {
+          "package_name": "com.example.week6taskcontactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39299714410-qujhak6egikqmon602be003qjbvvfe3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA8rximfuLy0X3DzB73NoUgNbbsYbwNz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39299714410-qujhak6egikqmon602be003qjbvvfe3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
